@@ -1,6 +1,6 @@
 {
   "name": "polynode-service-log-default",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Polynode: default log service",
   "main": "build/index.js",
   "scripts": {
@@ -9,10 +9,7 @@
     "prepublish": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-    "repository": {
+  "repository": {
     "type": "git",
     "url": "git@github.com:polynode-io/polynode-service-log-default.git"
   },

@@ -1,0 +1,15 @@
+{
+  "name": "polynode-service-log-default",
+  "version": "0.0.1",
+  "description": "Polynode: default log service",
+  "main": "index.js",
+  "repository": "git@github.com:polynode-io/polynode-service-log-default.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Duarte Rodriguez <info@malagadev.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bunyan": "^1.8.15"
+  }
+}
